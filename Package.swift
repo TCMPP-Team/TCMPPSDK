@@ -15,11 +15,11 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/CoderMJLee/MJRefresh.git", from: "3.7.9"),
         .package(url: "https://github.com/ZipArchive/ZipArchive.git", .upToNextMinor(from: "2.4.3")),
-        .package(url: "https://github.com/TCMPP-Team/Brotli.git", branch: "master"),
-        .package(url: "https://github.com/TCMPP-Team/MQQComponents.git", branch: "main"),
-        .package(url: "https://github.com/TCMPP-Team/PromiseObjC.git", branch: "main"),
-        .package(url: "https://github.com/TCMPP-Team/SocketRocket.git", branch: "master"),
-        .package(url: "https://github.com/TCMPP-Team/Tars.git", branch: "main"),
+        .package(url: "https://github.com/TCMPP-Team/Brotli.git", from: "1.1.0"),
+        .package(url: "https://github.com/TCMPP-Team/MQQComponents.git", from: "2.0.0"),
+        .package(url: "https://github.com/TCMPP-Team/PromiseObjC.git", from: "0.7.1"),
+        .package(url: "https://github.com/TCMPP-Team/SocketRocket.git", from: "0.5.1"),
+        .package(url: "https://github.com/TCMPP-Team/Tars.git", from: "1.6.0"),
     ],
     targets: [
         .binaryTarget(
