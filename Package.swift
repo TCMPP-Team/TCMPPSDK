@@ -38,10 +38,6 @@ let package = Package(
                 .product(name: "Tars", package: "Tars"),
             ],
             resources: [.process("TMFMiniAppSDK.bundle")],
-            linkerSettings: [
-                .unsafeFlags(["-ObjC"])
-            ]
-
         )
     ]
 )
