@@ -192,3 +192,7 @@
 "KTMFMASDKCamera" = "آلة تصوير";
 "KTMFMASDKMicrophone" = "ميكروفون";
 "KTMFMASDKCameraAndMicrophone" = "الكاميرا والميكروفون";
+"KTMFMASDKScopePhoneNumberTitle" = "طلبات الوصول والتحقق من رقم الهاتف لديك";
+"KTMFMASDKScopePhoneNumberDesc" = "بالنسبة للخدمات المخصصة، يجب توفر رقم الهاتف";
+"KTMFMASDKScopePhoneEmailTitle" = "طلبات الوصول والتحقق من البريد الإلكتروني لديك";
+"KTMFMASDKScopePhoneEmailDesc" = "بالنسبة للخدمات المخصصة، يجب توفر البريد الإلكتروني";

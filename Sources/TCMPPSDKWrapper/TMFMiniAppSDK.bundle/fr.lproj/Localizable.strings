@@ -192,3 +192,7 @@
 "KTMFMASDKCamera" = "Caméra";
 "KTMFMASDKMicrophone" = "Microphone";
 "KTMFMASDKCameraAndMicrophone" = "Caméra et Microphone";
+"KTMFMASDKScopePhoneNumberTitle" = "Demande à accéder à votre numéro de téléphone pour le vérifier";
+"KTMFMASDKScopePhoneNumberDesc" = "Pour les services personnalisés, numéro de téléphone est requis";
+"KTMFMASDKScopePhoneEmailTitle" = "Demande à accéder à votre e-mail pour le vérifier";
+"KTMFMASDKScopePhoneEmailDesc" = "Pour les services personnalisés, e-mail est requis";

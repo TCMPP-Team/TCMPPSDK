@@ -192,3 +192,7 @@
 "KTMFMASDKCamera" = "攝像頭";
 "KTMFMASDKMicrophone" = "麥克風";
 "KTMFMASDKCameraAndMicrophone" = "攝像頭和麥克風";
+"KTMFMASDKScopePhoneNumberTitle" = "申請取得並驗證你的手提電話號碼";
+"KTMFMASDKScopePhoneNumberDesc" = "取得手提電話號碼以提供個性化等服務";
+"KTMFMASDKScopePhoneEmailTitle" = "申請取得並驗證你的電郵";
+"KTMFMASDKScopePhoneEmailDesc" = "取得電郵以提供個性化等服務";
