@@ -23,8 +23,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TCMPPSDK",
-            url: "https://tmf-warehouse-1314481471.cos.ap-beijing.myqcloud.com/tcmpp/ios-sdk/noshark/TCMPPSDK/2.2.13/3/TCMPPSDK_2.2.13.xcframework.zip",
-                        checksum: "b3e16b3de3b2ee5992f80883c0654008587d819e70f6bd89d1ec41726542b177"
+            url: "https://tmf-warehouse-1314481471.cos.ap-beijing.myqcloud.com/tcmpp/ios-sdk/noshark/TCMPPSDK/2.2.14/5/TCMPPSDK_2.2.14.xcframework.zip",
+                        checksum: "58c26042cbdecae4705cd2852547b415b3dffd9d1b8a66426dad1cab64fee014"
         ),
         .target(
             name: "TCMPPSDKWrapper",

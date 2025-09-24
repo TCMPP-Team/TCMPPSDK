@@ -66,7 +66,7 @@
 "KTMFMASDKWX" = "WeChat";
 "KTMFMASDKWXMoments" = "朋友圈";
 "KTMFMASDKSendWXFriends" = "發送給朋友";
-"KTMFMASDKSavePhotosAlbum" = "保存到相簿";
+"KTMFMASDKSavePhotosAlbum" = "保存";
 "KTMFMASDKScopeChooseMessageFileTitle" = "從你的手提電話會話中選擇檔案";
 "KTMFMASDKScopeChooseMessageFileDesc" = "小程式取得本地檔案將給你提供檔案選取等服務";
 "KTMFMASDKScopeChooseMessageFilePageTitle" = "檔案選取權限";
