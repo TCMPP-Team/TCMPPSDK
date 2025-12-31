@@ -196,3 +196,14 @@
 "KTMFMASDKScopePhoneNumberDesc" = "取得手提電話號碼以提供個性化等服務";
 "KTMFMASDKScopePhoneEmailTitle" = "申請取得並驗證你的電郵";
 "KTMFMASDKScopePhoneEmailDesc" = "取得電郵以提供個性化等服務";
+"KTMFMASDKPlayletFreeToWatch" = "免費觀看";
+"KTMFMASDKPlayletUnlocked" = "已解鎖";
+"KTMFMASDKPlayletLocked" = "未解鎖";
+"KTMFMASDKPlayletAllEpisodes" = "全%ld集 · 第%ld集";
+"KTMFMASDKPlayletEpisodes" = "劇集列表";
+"KTMFMASDKPlayletSynopsis" = "簡介";
+"KTMFMASDKPlayletSpeed" = "播放速度";
+"KTMFMASDKPlayletQuality" = "畫質";
+"KTMFMASDKPlayletTheaterMode" = "清屏播放";
+"KTMFMASDKPlayletFirstEpisode" = "此為第一集";
+"KTMFMASDKPlayletLastEpisode" = "此為最後一集";

@@ -196,3 +196,14 @@
 "KTMFMASDKScopePhoneNumberDesc" = "بالنسبة للخدمات المخصصة، يجب توفر رقم الهاتف";
 "KTMFMASDKScopePhoneEmailTitle" = "طلبات الوصول والتحقق من البريد الإلكتروني لديك";
 "KTMFMASDKScopePhoneEmailDesc" = "بالنسبة للخدمات المخصصة، يجب توفر البريد الإلكتروني";
+"KTMFMASDKPlayletFreeToWatch" = "مشاهدة مجانية";
+"KTMFMASDKPlayletUnlocked" = "مفتوح";
+"KTMFMASDKPlayletLocked" = "مقفل";
+"KTMFMASDKPlayletAllEpisodes" = "جميع الحلقات %d · الحلقة %d";
+"KTMFMASDKPlayletEpisodes" = "الحلقات";
+"KTMFMASDKPlayletSynopsis" = "ملخص";
+"KTMFMASDKPlayletSpeed" = "سرعة التشغيل";
+"KTMFMASDKPlayletQuality" = "الجودة";
+"KTMFMASDKPlayletTheaterMode" = "وضع الوضوح";
+"KTMFMASDKPlayletFirstEpisode" = "أنت في الحلقة الأولى";
+"KTMFMASDKPlayletLastEpisode" = "أنت في الحلقة الأخيرة";

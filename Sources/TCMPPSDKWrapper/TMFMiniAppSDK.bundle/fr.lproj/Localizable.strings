@@ -196,3 +196,14 @@
 "KTMFMASDKScopePhoneNumberDesc" = "Pour les services personnalisés, numéro de téléphone est requis";
 "KTMFMASDKScopePhoneEmailTitle" = "Demande à accéder à votre e-mail pour le vérifier";
 "KTMFMASDKScopePhoneEmailDesc" = "Pour les services personnalisés, e-mail est requis";
+"KTMFMASDKPlayletFreeToWatch" = "Gratuit à regarder";
+"KTMFMASDKPlayletUnlocked" = "Déverrouillé";
+"KTMFMASDKPlayletLocked" = "Verrouillé";
+"KTMFMASDKPlayletAllEpisodes" = "Tous les %ld épisodes · Épisode %ld";
+"KTMFMASDKPlayletEpisodes" = "Épisodes";
+"KTMFMASDKPlayletSynopsis" = "Synopsis";
+"KTMFMASDKPlayletSpeed" = "Vitesse";
+"KTMFMASDKPlayletQuality" = "Qualité";
+"KTMFMASDKPlayletTheaterMode" = "Mode clair";
+"KTMFMASDKPlayletFirstEpisode" = "Vous êtes au premier épisode.";
+"KTMFMASDKPlayletLastEpisode" = "Vous êtes au dernier épisode.";

@@ -196,3 +196,14 @@
 "KTMFMASDKScopePhoneNumberDesc" = "获取手机号以提供个性化等服务";
 "KTMFMASDKScopePhoneEmailTitle" = "申请获取并验证你的邮箱";
 "KTMFMASDKScopePhoneEmailDesc" = "获取邮箱以提供个性化等服务";
+"KTMFMASDKPlayletFreeToWatch" = "免费观看";
+"KTMFMASDKPlayletUnlocked" = "已解锁";
+"KTMFMASDKPlayletLocked" = "未解锁";
+"KTMFMASDKPlayletAllEpisodes" = "全%ld集 · 第%ld集";
+"KTMFMASDKPlayletEpisodes" = "选集";
+"KTMFMASDKPlayletSynopsis" = "简介";
+"KTMFMASDKPlayletSpeed" = "播放倍速";
+"KTMFMASDKPlayletQuality" = "清晰度";
+"KTMFMASDKPlayletTheaterMode" = "清屏播放";
+"KTMFMASDKPlayletFirstEpisode" = "当前为第一集";
+"KTMFMASDKPlayletLastEpisode" = "当前已是最后一集";
