@@ -3957,7 +3957,7 @@
         a = r(n(8081));
       n(5600);
       const l = new Map;
-      l.set(0, "log"), l.set(1, "info"), l.set(2, "warn"), l.set(3, "error"), l.set(4, "debug"), l.set(6, 'info');
+      l.set(0, "log"), l.set(1, "info"), l.set(2, "warn"), l.set(3, "error"), l.set(4, "debug"), l.set(5, "time"), l.set(6, 'info'), l.set(7, "timeEnd");
       
       class c extends i.Component {
         constructor(t, e = {}) {
@@ -4096,10 +4096,10 @@
                   }
                 }
               } else {
-                  t[`${getLogLevel(e)}`](e);
+                  t[`${getLogLevel(e) || 'log'}` ](e);
               }
             } catch (n) {
-               t[`${getLogLevel(e)}`](e);
+               t[`${getLogLevel(e) || 'log'}`](e);
             }
           }))
         }
@@ -4863,3 +4863,5 @@ n.g = function () {
 <body></body>
 
 </html>
+
+
