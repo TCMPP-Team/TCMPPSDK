@@ -207,3 +207,13 @@
 "KTMFMASDKPlayletTheaterMode" = "清屏播放";
 "KTMFMASDKPlayletFirstEpisode" = "当前为第一集";
 "KTMFMASDKPlayletLastEpisode" = "当前已是最后一集";
+
+// NFC
+"KTMFMASDKNFCHoldNearTag" = "将iPhone靠近NFC标签";
+"KTMFMASDKNFCReading" = "正在读取…";
+"KTMFMASDKNFCWriting" = "正在写入…";
+"KTMFMASDKNFCReadSuccessful" = "读取成功";
+"KTMFMASDKNFCWriteSuccessful" = "写入成功";
+"KTMFMASDKNFCReadFailed" = "读取失败，请重试";
+"KTMFMASDKNFCWriteFailed" = "写入失败，请重试";
+"KTMFMASDKNFCSessionTimeout" = "会话超时，请重试";

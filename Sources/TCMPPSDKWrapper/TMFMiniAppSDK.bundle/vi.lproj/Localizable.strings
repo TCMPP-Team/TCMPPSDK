@@ -207,3 +207,13 @@
 "KTMFMASDKPlayletTheaterMode" = "Xóa hiển thị";
 "KTMFMASDKPlayletFirstEpisode" = "Bạn đang xem tập đầu tiên.";
 "KTMFMASDKPlayletLastEpisode" = "Bạn đang xem tập cuối cùng.";
+
+// NFC
+"KTMFMASDKNFCHoldNearTag" = "Đưa iPhone lại gần thẻ NFC";
+"KTMFMASDKNFCReading" = "Đang đọc…";
+"KTMFMASDKNFCWriting" = "Đang ghi…";
+"KTMFMASDKNFCReadSuccessful" = "Đọc thành công";
+"KTMFMASDKNFCWriteSuccessful" = "Ghi thành công";
+"KTMFMASDKNFCReadFailed" = "Đọc thất bại, vui lòng thử lại.";
+"KTMFMASDKNFCWriteFailed" = "Ghi thất bại, vui lòng thử lại.";
+"KTMFMASDKNFCSessionTimeout" = "Phiên đã hết hạn, vui lòng thử lại.";

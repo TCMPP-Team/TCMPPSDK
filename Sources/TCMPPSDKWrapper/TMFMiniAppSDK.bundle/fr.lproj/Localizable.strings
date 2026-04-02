@@ -207,3 +207,13 @@
 "KTMFMASDKPlayletTheaterMode" = "Mode clair";
 "KTMFMASDKPlayletFirstEpisode" = "Vous êtes au premier épisode.";
 "KTMFMASDKPlayletLastEpisode" = "Vous êtes au dernier épisode.";
+
+// NFC
+"KTMFMASDKNFCHoldNearTag" = "Approchez votre iPhone d'un tag NFC";
+"KTMFMASDKNFCReading" = "Lecture en cours…";
+"KTMFMASDKNFCWriting" = "Écriture en cours…";
+"KTMFMASDKNFCReadSuccessful" = "Lecture réussie";
+"KTMFMASDKNFCWriteSuccessful" = "Écriture réussie";
+"KTMFMASDKNFCReadFailed" = "Échec de la lecture, veuillez réessayer.";
+"KTMFMASDKNFCWriteFailed" = "Échec de l'écriture, veuillez réessayer.";
+"KTMFMASDKNFCSessionTimeout" = "Session expirée, veuillez réessayer.";
