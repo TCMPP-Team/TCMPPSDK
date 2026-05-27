@@ -207,6 +207,9 @@
 "KTMFMASDKPlayletTheaterMode" = "清屏播放";
 "KTMFMASDKPlayletFirstEpisode" = "此為第一集";
 "KTMFMASDKPlayletLastEpisode" = "此為最後一集";
+"KTMFMASDKPlayletRecommend" = "推薦";
+"KTMFMASDKPlayletDramaEnd" = "本劇已結束";
+"KTMFMASDKPlayletMoreRecommend" = "更多推薦";
 
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "將iPhone靠近NFC標籤";

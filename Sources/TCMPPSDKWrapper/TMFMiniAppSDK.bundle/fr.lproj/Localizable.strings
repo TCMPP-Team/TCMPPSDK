@@ -207,6 +207,9 @@
 "KTMFMASDKPlayletTheaterMode" = "Mode clair";
 "KTMFMASDKPlayletFirstEpisode" = "Vous êtes au premier épisode.";
 "KTMFMASDKPlayletLastEpisode" = "Vous êtes au dernier épisode.";
+"KTMFMASDKPlayletRecommend" = "Recommandation";
+"KTMFMASDKPlayletDramaEnd" = "Fin de la série";
+"KTMFMASDKPlayletMoreRecommend" = "Plus de recommandations";
 
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "Approchez votre iPhone d'un tag NFC";
