@@ -207,9 +207,6 @@
 "KTMFMASDKPlayletTheaterMode" = "Xóa hiển thị";
 "KTMFMASDKPlayletFirstEpisode" = "Bạn đang xem tập đầu tiên.";
 "KTMFMASDKPlayletLastEpisode" = "Bạn đang xem tập cuối cùng.";
-"KTMFMASDKPlayletRecommend" = "Đề xuất";
-"KTMFMASDKPlayletDramaEnd" = "Đã hết phim";
-"KTMFMASDKPlayletMoreRecommend" = "Đề xuất khác";
 
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "Đưa iPhone lại gần thẻ NFC";

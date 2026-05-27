@@ -207,9 +207,6 @@
 "KTMFMASDKPlayletTheaterMode" = "清屏播放";
 "KTMFMASDKPlayletFirstEpisode" = "当前为第一集";
 "KTMFMASDKPlayletLastEpisode" = "当前已是最后一集";
-"KTMFMASDKPlayletRecommend" = "推荐";
-"KTMFMASDKPlayletDramaEnd" = "本剧已结束";
-"KTMFMASDKPlayletMoreRecommend" = "更多推荐";
 
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "将iPhone靠近NFC标签";
