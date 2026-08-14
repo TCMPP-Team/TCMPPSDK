@@ -57,7 +57,7 @@
 "KTMFMASDKFormalVerDeleted" = " ";
 "KTMFMASDKFormalVerApproved" = " ";
 "KTMFMASDKFormalVerReviewReturn" = " ";
-"KTMFMASDKFormalVerGrayscale" = " ";
+"KTMFMASDKFormalVerGrayscale" = "Phiên bản đã phát hành - Canary";
 "KTMFMASDKFormalVerOffline" = " ";
 "KTMFMASDKEffectiveReopening" = "Chế độ gỡ lỗi sẽ chỉ có hiệu lực sau khi khởi động lại";
 "KTMFMASDKCancel" = "Hủy";

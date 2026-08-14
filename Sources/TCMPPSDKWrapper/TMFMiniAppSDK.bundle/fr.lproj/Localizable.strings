@@ -57,7 +57,7 @@
 "KTMFMASDKFormalVerDeleted" = " ";
 "KTMFMASDKFormalVerApproved" = " ";
 "KTMFMASDKFormalVerReviewReturn" = " ";
-"KTMFMASDKFormalVerGrayscale" = " ";
+"KTMFMASDKFormalVerGrayscale" = "Version publiée - Canary";
 "KTMFMASDKFormalVerOffline" = " ";
 "KTMFMASDKEffectiveReopening" = "Le mode de débogage ne prend effet qu'après le redémarrage";
 "KTMFMASDKCancel" = "Annuler";
