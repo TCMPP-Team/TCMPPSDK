@@ -65,7 +65,8 @@ More Info:https://www.tencentcloud.com/document/product/1219/61432
 | TCMPPExtContact        | https://github.com/TCMPP-Team/TCMPPExtContact.git        |
 | TCMPPExtMDNS           | https://github.com/TCMPP-Team/TCMPPExtMDNS.git           |
 | TCMPPExtMp3Encoder     | https://github.com/TCMPP-Team/TCMPPExtMp3Encoder.git     |
-
+| TCSASExtNFC	           | https://github.com/TCMPP-Team/TCSASExtNFC.git            |
+| TCSASExtVodPlayer      | https://github.com/TCMPP-Team/TCSASExtVodPlayer.git      |
 
 
 Select  **Build Settings** > **Linking** > **Other Linker Flags**, and add `-ObjC`.
