@@ -78,6 +78,9 @@
 "KTMFMASDKAbout" = "حول";
 "KTMFMASDKSettings" = "إعدادات";
 "KTMFMASDKAddToDesktop" = "أضف إلى الشاشة الرئيسية";
+"KTMFMASDKAddNow" = "إضافة الآن";
+"KTMFMASDKShortcutPromptTitle" = "إضافة «%@» إلى الشاشة الرئيسية";
+"KTMFMASDKShortcutPromptDesc" = "يمكنك تشغيلها بسهولة أكبر من الشاشة الرئيسية في المرة القادمة";
 "KTMFMASDKMore" = "أكثر";
 "KTMFMASDKShareTo" = "حصة ل";
 "KTMFMASDKSoundRecording" = "سجل";
@@ -90,6 +93,7 @@
 "KTMFMASDKTitleNotSet" = "لم يتم تعيين العنوان.";
 "KTMFMASDKRealNameAuth" = "التحقق من الهوية";
 "KTMFMASDKExistGame" = "قم بإنهاء اللعبة";
+"KTMFMASDKExitImmediately" = "خروج الآن";
 "KTMFMASDKLater" = "في وقت لاحق";
 "KTMFMASDKAbnormal" = "استثناء";
 "KTMFMASDKPaymentFailedc" = "عملية الدفع فشلت.";

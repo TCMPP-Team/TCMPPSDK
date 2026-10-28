@@ -78,6 +78,9 @@
 "KTMFMASDKAbout" = "Giới thiệu";
 "KTMFMASDKSettings" = "Cài đặt";
 "KTMFMASDKAddToDesktop" = "Tạo lối tắt";
+"KTMFMASDKAddNow" = "Thêm ngay";
+"KTMFMASDKShortcutPromptTitle" = "Thêm “%@” vào Màn hình chính";
+"KTMFMASDKShortcutPromptDesc" = "Lần sau, bạn có thể khởi chạy thuận tiện hơn từ Màn hình chính";
 "KTMFMASDKMore" = "Thêm";
 "KTMFMASDKShareTo" = "Chia sẻ";
 "KTMFMASDKSoundRecording" = "Ghi";
@@ -90,6 +93,7 @@
 "KTMFMASDKTitleNotSet" = "Chưa đặt tiêu đề.";
 "KTMFMASDKRealNameAuth" = "Xác minh danh tính";
 "KTMFMASDKExistGame" = "Thoát trò chơi";
+"KTMFMASDKExitImmediately" = "Thoát ngay";
 "KTMFMASDKLater" = "Để sau";
 "KTMFMASDKAbnormal" = "Ngoại lệ";
 "KTMFMASDKPaymentFailedc" = "Không thanh toán được.";

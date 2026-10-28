@@ -78,6 +78,9 @@
 "KTMFMASDKAbout" = "关于";
 "KTMFMASDKSettings" = "设置";
 "KTMFMASDKAddToDesktop" = "添加到桌面";
+"KTMFMASDKAddNow" = "立即添加";
+"KTMFMASDKShortcutPromptTitle" = "添加「%@」到主屏幕";
+"KTMFMASDKShortcutPromptDesc" = "下次从主屏幕启动更方便";
 "KTMFMASDKMore" = "更多";
 "KTMFMASDKShareTo" = "分享到";
 "KTMFMASDKSoundRecording" = "录音";
@@ -90,6 +93,7 @@
 "KTMFMASDKTitleNotSet" = "未设置 title";
 "KTMFMASDKRealNameAuth" = "实名认证";
 "KTMFMASDKExistGame" = "退出游戏";
+"KTMFMASDKExitImmediately" = "立即退出";
 "KTMFMASDKLater" = "稍候再说";
 "KTMFMASDKAbnormal" = "异常";
 "KTMFMASDKPaymentFailedc" = "支付失败";

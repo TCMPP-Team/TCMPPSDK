@@ -78,6 +78,9 @@
 "KTMFMASDKAbout" = "À propos";
 "KTMFMASDKSettings" = "Paramètres";
 "KTMFMASDKAddToDesktop" = "Créer un raccourci";
+"KTMFMASDKAddNow" = "Ajouter maintenant";
+"KTMFMASDKShortcutPromptTitle" = "Ajouter « %@ » à l’écran d’accueil";
+"KTMFMASDKShortcutPromptDesc" = "Lancez-le plus facilement depuis l’écran d’accueil la prochaine fois";
 "KTMFMASDKMore" = "Plus";
 "KTMFMASDKShareTo" = "Partager";
 "KTMFMASDKSoundRecording" = "Enregistrer";
@@ -90,6 +93,7 @@
 "KTMFMASDKTitleNotSet" = "Le titre n'est pas défini.";
 "KTMFMASDKRealNameAuth" = "Vérification d'identité";
 "KTMFMASDKExistGame" = "Quitter le jeu";
+"KTMFMASDKExitImmediately" = "Quitter maintenant";
 "KTMFMASDKLater" = "Plus tard";
 "KTMFMASDKAbnormal" = "Exception";
 "KTMFMASDKPaymentFailedc" = "Échec du paiement.";
