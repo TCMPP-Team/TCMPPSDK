@@ -215,6 +215,20 @@
 "KTMFMASDKPlayletDramaEnd" = "本劇已結束";
 "KTMFMASDKPlayletMoreRecommend" = "更多推薦";
 
+"KTMFMASDKViewMiniAppInfo" = "查看小程式資訊";
+"KTMFMASDKShowAddToDesktopIneligible" = "Superapp 尚未啟用此功能";
+"KTMFMASDKLivePusherSuspended" = "推流被掛起";
+"KTMFMASDKLaunchAdProvidedBy" = "由%@提供";
+"KTMFMASDKLaunchAdThirdParty" = "第三方";
+"KTMFMASDKLaunchAdPublicationInfo" = "\r\n出版物號：%1$@  營運單位：%2$@\r\n審批文號：%3$@  出版單位：%4$@";
+"KTMFMASDKLaunchAdSkip" = "跳過";
+"KTMFMASDKLaunchAdSwipeOrTap" = "向上滑動或點擊按鈕";
+"KTMFMASDKLaunchAdJumpThirdParty" = "跳轉至第三方頁面或應用程式";
+"KTMFMASDKLaunchAdTapForDetails" = "點擊跳轉詳情頁面或第三方應用程式";
+"KTMFMASDKLaunchAdLabel" = "廣告";
+"KTMFMASDKLaunchAdCountdown" = "%.0f秒";
+"KTMFMASDKLaunchAdSkipAd" = "跳過廣告";
+
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "將iPhone靠近NFC標籤";
 "KTMFMASDKNFCReading" = "正在讀取…";
@@ -224,3 +238,4 @@
 "KTMFMASDKNFCReadFailed" = "讀取失敗，請重試";
 "KTMFMASDKNFCWriteFailed" = "寫入失敗，請重試";
 "KTMFMASDKNFCSessionTimeout" = "會話逾時，請重試";
+"KTMFMASDKReadClipboardTip" = "“%@”讀取了你的剪貼簿內容";

@@ -215,6 +215,20 @@
 "KTMFMASDKPlayletDramaEnd" = "انتهت المسلسل";
 "KTMFMASDKPlayletMoreRecommend" = "المزيد من التوصيات";
 
+"KTMFMASDKViewMiniAppInfo" = "عرض معلومات البرنامج المصغر";
+"KTMFMASDKShowAddToDesktopIneligible" = "هذه الميزة غير مفعّلة في التطبيق الشامل";
+"KTMFMASDKLivePusherSuspended" = "تم تعليق البث المباشر";
+"KTMFMASDKLaunchAdProvidedBy" = "مقدَّم من %@";
+"KTMFMASDKLaunchAdThirdParty" = "جهة خارجية";
+"KTMFMASDKLaunchAdPublicationInfo" = "\r\nرقم النشر: %1$@  جهة التشغيل: %2$@\r\nرقم الموافقة: %3$@  الناشر: %4$@";
+"KTMFMASDKLaunchAdSkip" = "تخطي";
+"KTMFMASDKLaunchAdSwipeOrTap" = "اسحب لأعلى أو اضغط على الزر";
+"KTMFMASDKLaunchAdJumpThirdParty" = "الانتقال إلى صفحة أو تطبيق تابع لجهة خارجية";
+"KTMFMASDKLaunchAdTapForDetails" = "اضغط لعرض التفاصيل أو فتح تطبيق تابع لجهة خارجية";
+"KTMFMASDKLaunchAdLabel" = "إعلان";
+"KTMFMASDKLaunchAdCountdown" = "%.0f ثانية";
+"KTMFMASDKLaunchAdSkipAd" = "تخطي الإعلان";
+
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "قرّب iPhone من علامة NFC";
 "KTMFMASDKNFCReading" = "جارٍ القراءة…";
@@ -224,3 +238,4 @@
 "KTMFMASDKNFCReadFailed" = "فشلت القراءة، يرجى المحاولة مرة أخرى";
 "KTMFMASDKNFCWriteFailed" = "فشلت الكتابة، يرجى المحاولة مرة أخرى";
 "KTMFMASDKNFCSessionTimeout" = "انتهت مهلة الجلسة، يرجى المحاولة مرة أخرى";
+"KTMFMASDKReadClipboardTip" = "قرأ «%@» المحتوى الموجود في الحافظة الخاصة بك.";

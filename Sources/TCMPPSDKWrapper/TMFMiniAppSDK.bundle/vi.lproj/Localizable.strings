@@ -215,6 +215,20 @@
 "KTMFMASDKPlayletDramaEnd" = "Đã hết phim";
 "KTMFMASDKPlayletMoreRecommend" = "Đề xuất khác";
 
+"KTMFMASDKViewMiniAppInfo" = "Xem thông tin chương trình mini";
+"KTMFMASDKShowAddToDesktopIneligible" = "Superapp chưa bật tính năng này";
+"KTMFMASDKLivePusherSuspended" = "Phát trực tiếp bị tạm ngưng";
+"KTMFMASDKLaunchAdProvidedBy" = "Được cung cấp bởi %@";
+"KTMFMASDKLaunchAdThirdParty" = "Bên thứ ba";
+"KTMFMASDKLaunchAdPublicationInfo" = "\r\nSố xuất bản: %1$@  Đơn vị vận hành: %2$@\r\nSố phê duyệt: %3$@  Nhà xuất bản: %4$@";
+"KTMFMASDKLaunchAdSkip" = "Bỏ qua";
+"KTMFMASDKLaunchAdSwipeOrTap" = "Vuốt lên hoặc nhấn nút";
+"KTMFMASDKLaunchAdJumpThirdParty" = "Chuyển đến trang hoặc ứng dụng bên thứ ba";
+"KTMFMASDKLaunchAdTapForDetails" = "Nhấn để xem chi tiết hoặc mở ứng dụng bên thứ ba";
+"KTMFMASDKLaunchAdLabel" = "Quảng cáo";
+"KTMFMASDKLaunchAdCountdown" = "%.0f giây";
+"KTMFMASDKLaunchAdSkipAd" = "Bỏ qua quảng cáo";
+
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "Đưa iPhone lại gần thẻ NFC";
 "KTMFMASDKNFCReading" = "Đang đọc…";
@@ -224,3 +238,4 @@
 "KTMFMASDKNFCReadFailed" = "Đọc thất bại, vui lòng thử lại.";
 "KTMFMASDKNFCWriteFailed" = "Ghi thất bại, vui lòng thử lại.";
 "KTMFMASDKNFCSessionTimeout" = "Phiên đã hết hạn, vui lòng thử lại.";
+"KTMFMASDKReadClipboardTip" = "“%@” đã đọc nội dung trong bộ nhớ tạm của bạn.";

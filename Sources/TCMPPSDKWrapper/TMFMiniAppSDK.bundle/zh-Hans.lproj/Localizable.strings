@@ -215,6 +215,20 @@
 "KTMFMASDKPlayletDramaEnd" = "本剧已结束";
 "KTMFMASDKPlayletMoreRecommend" = "更多推荐";
 
+"KTMFMASDKViewMiniAppInfo" = "查看小程序信息";
+"KTMFMASDKShowAddToDesktopIneligible" = "Superapp 暂未启用此功能";
+"KTMFMASDKLivePusherSuspended" = "推流被挂起";
+"KTMFMASDKLaunchAdProvidedBy" = "由%@提供";
+"KTMFMASDKLaunchAdThirdParty" = "第三方";
+"KTMFMASDKLaunchAdPublicationInfo" = "\r\n出版物号：%1$@  运营单位：%2$@\r\n审批文号：%3$@  出版单位：%4$@";
+"KTMFMASDKLaunchAdSkip" = "跳过";
+"KTMFMASDKLaunchAdSwipeOrTap" = "向上滑动或点击按钮";
+"KTMFMASDKLaunchAdJumpThirdParty" = "跳转至第三方页面或应用";
+"KTMFMASDKLaunchAdTapForDetails" = "点击跳转详情页面或第三方应用";
+"KTMFMASDKLaunchAdLabel" = "广告";
+"KTMFMASDKLaunchAdCountdown" = "%.0f秒";
+"KTMFMASDKLaunchAdSkipAd" = "跳过广告";
+
 // NFC
 "KTMFMASDKNFCHoldNearTag" = "将iPhone靠近NFC标签";
 "KTMFMASDKNFCReading" = "正在读取…";
@@ -224,3 +238,4 @@
 "KTMFMASDKNFCReadFailed" = "读取失败，请重试";
 "KTMFMASDKNFCWriteFailed" = "写入失败，请重试";
 "KTMFMASDKNFCSessionTimeout" = "会话超时，请重试";
+"KTMFMASDKReadClipboardTip" = "“%@”读取了你的剪切板内容";
